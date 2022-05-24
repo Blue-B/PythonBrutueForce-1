@@ -4,9 +4,9 @@ numlist = '0123456789'
 
 '''
 #for문을 활용한 3자리 패스워드 출력 0부터 999까지 
-for i in 문자열:
-    for j in 문자열:
-        for k in 문자열:
+for i in numlist:
+    for j in numlist:
+        for k in numlist:
             print(i,j,k)
 '''
 
